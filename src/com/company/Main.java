@@ -19,6 +19,9 @@ public class Main {
         String sistaOrd = mening.substring(sistaMellanslag);
         int antaltecken = mening.length();
 
+        int test;
+
+
         JOptionPane.showMessageDialog(null, "Du skrev en mening med " + antaltecken + " tecken.\nDet försts ordet var: " + förstaOrd + ".\nDet sista ordet var: " + sistaOrd);
 
     }
