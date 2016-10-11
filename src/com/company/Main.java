@@ -21,6 +21,7 @@ public class Main {
 
         int test;
         int test2;
+        int test3;
 
 
         JOptionPane.showMessageDialog(null, "Du skrev en mening med " + antaltecken + " tecken.\nDet försts ordet var: " + förstaOrd + ".\nDet sista ordet var: " + sistaOrd);
