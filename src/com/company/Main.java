@@ -20,7 +20,7 @@ public class Main {
         int antaltecken = mening.length();
 
         int test;
-        int test2;
+
 
 
 
